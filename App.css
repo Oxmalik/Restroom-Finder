@@ -1,0 +1,17 @@
+
+.header{
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 10px;
+  
+}
+.leaflet-container{
+  width: 90vw;
+  height: 90vh;
+  align-self: auto;
+  align-content: center;
+  
+  margin-left: 70px;
+}
